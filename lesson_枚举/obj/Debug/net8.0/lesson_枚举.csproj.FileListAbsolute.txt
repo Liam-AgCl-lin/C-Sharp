@@ -1,0 +1,14 @@
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\bin\Debug\net8.0\lesson_枚举.exe
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\bin\Debug\net8.0\lesson_枚举.deps.json
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\bin\Debug\net8.0\lesson_枚举.runtimeconfig.json
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\bin\Debug\net8.0\lesson_枚举.dll
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\bin\Debug\net8.0\lesson_枚举.pdb
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.AssemblyInfoInputs.cache
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.AssemblyInfo.cs
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.csproj.CoreCompileInputs.cache
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.dll
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\refint\lesson_枚举.dll
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.pdb
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\lesson_枚举.genruntimeconfig.cache
+D:\VS(visual Studio)\C#\Csharp入门\lesson_枚举\obj\Debug\net8.0\ref\lesson_枚举.dll
